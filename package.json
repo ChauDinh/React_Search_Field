@@ -1,0 +1,23 @@
+{
+  "name": "react_search_field",
+  "version": "1.0.0",
+  "description": "## What we will cover?",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChauDinh/React_Search_Field.git"
+  },
+  "author": "Chau Dinh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChauDinh/React_Search_Field/issues"
+  },
+  "homepage": "https://github.com/ChauDinh/React_Search_Field#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
